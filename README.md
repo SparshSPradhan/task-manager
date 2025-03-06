@@ -51,7 +51,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
+- Live Site URL: [link](https://task-manager-sparsh-five.vercel.app/)
 
 ### Built with
 
